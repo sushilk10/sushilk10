@@ -36,14 +36,32 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sushilk10&theme=tokyonight" alt="sushilk10 streak stats"/>
 </p>
 
+
 ---
 
 ## 🤝 Connect with Me
 
 <p align="center">
-  <a href="mailto:sanketkale1243@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/sushil-kale"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/sushilk10"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <!-- 📧 Gmail -->
+  <a href="mailto:sanketkale1243@gmail.com">
+    <img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+
+  <!-- 💼 LinkedIn -->
+  <a href="https://www.linkedin.com/in/sushil-kale">
+    <img src="https://img.shields.io/badge/LinkedIn_Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+
+  <!-- 🐙 GitHub -->
+  <a href="https://github.com/sushilk10">
+    <img src="https://img.shields.io/badge/GitHub_Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  </a>
+
+  <!-- 📸 Instagram -->
+  <a href="https://www.instagram.com/your_instagram_username/">
+    <img src="https://img.shields.io/badge/Instagram-FC466B?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
 </p>
+
 
 ---
