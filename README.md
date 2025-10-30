@@ -62,6 +62,3 @@
     <img src="https://img.shields.io/badge/Instagram-FC466B?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
 </p>
-
-
----
