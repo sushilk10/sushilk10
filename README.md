@@ -5,7 +5,7 @@
 <h3 align="center">Full-Stack Developer & AI Enthusiast | Based in Nagpur, India 🇮🇳</h3>
 
 <p align="center">
-  <a href="https://github.com/[YourUsername]">
+  <a href="https://github.com/sushilk10">
     <img src="https://komarev.com/ghpvc/?username=[YourUsername]&color=brightgreen&style=flat" alt="Profile views"/>
   </a>
 </p>
