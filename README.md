@@ -76,7 +76,7 @@ To innovate at the intersection of **AI and Sustainability**, creating technolog
   <!-- GitHub Activity Graph -->
   <img 
     src="https://github-readme-activity-graph.vercel.app/graph?username=sushilk10&theme=tokyonight&hide_border=true&bg_color=00000000" 
-    alt="Sushil's Activity Graph" 
+    alt="My Activity Graph" 
   />
 </p>
 
