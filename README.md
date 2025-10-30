@@ -58,7 +58,7 @@
   </a>
 
   <!-- 📸 Instagram -->
-  <a href="https://www.instagram.com/your_instagram_username/">
+  <a href="https://www.instagram.com/sushi_lk10/profilecard/?igsh=MXkyYXV6cHZzZHJvZQ==">
     <img src="https://img.shields.io/badge/Instagram-FC466B?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
 </p>
