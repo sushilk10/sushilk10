@@ -1,39 +1,83 @@
-## Hi there 👋
-
-<!---- Header / Banner ---->
-<h1 align="center">Hi 👋, I'm Sushil Kale </h1>
-<h3 align="center">Full-Stack Developer & AI Enthusiast |India 🇮🇳</h3>
+<!-- 💫 HEADER / INTRO -->
+<h1 align="center">Hi 👋, I'm <span style="color:#00bfff;">Sushil Kale</span></h1>
+<h3 align="center">💻 Full-Stack Developer | 🤖 AI & ML Enthusiast | 🌱 Sustainability Innovator</h3>
 
 <p align="center">
   <a href="https://github.com/sushilk10">
-    <img src="https://komarev.com/ghpvc/?username=sushilk10&color=brightgreen&style=flat" alt="Profile views"/>
+    <img src="https://komarev.com/ghpvc/?username=sushilk10&label=Profile%20Views&color=brightgreen&style=flat" alt="Profile views"/>
   </a>
 </p>
 
 ---
 
-## 🔭 I’m currently working on  
-- Building an **AI-based deforestation monitoring** project using satellite imagery, CNNs & XGBoost.  
-- Developing a **crowd density & social-distancing detector** using YOLOv8 and OpenCV (for live video feed).  
-- Integrating **Twilio SMS alerts** into fire & smoke detection systems for real-time alerts.
+## 🧠 About Me  
+
+🚀 Passionate **AI & Machine Learning** enthusiast with hands-on experience in **Computer Vision**, **Sustainability Projects**, and **Full-Stack Development**.  
+I enjoy creating smart systems that merge **AI, IoT, and Sustainable Tech** — turning innovative ideas into real-world impact.  
+
+💡 **I love working with:**  
+- Python | Node.js | PHP | Streamlit  
+- TensorFlow | OpenCV | YOLOv8 | CNNs  
+- Data Science | Deep Learning | Automation  
+
+🌱 **Currently Exploring:**  
+Real-time AI systems for **video analytics**, **environmental monitoring**, and **smart automation**.  
+
+🧩 **Goal:**  
+To innovate at the intersection of **AI and Sustainability**, creating technology that makes a difference 🌍  
 
 ---
 
-## 🌱 I’m currently learning  
-- Advanced video analytics: action recognition, anomaly detection in CCTV.  
-- Deploying ML & AI models into production with monitoring & logs.  
-- 3D animation & content creation (for intro videos, logos) using Blender/AfterEffects.
-
----
-
-## 📊 GitHub Stats
+## ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sushilk10&show_icons=true&theme=tokyonight&count_private=true" alt="sushilk10 GitHub stats"/>
+  <img src="https://skillicons.dev/icons?i=python,php,javascript,nodejs,html,css" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=express,react,opencv,tensorflow,git,vscode" />
+  <img src="https://avatars.githubusercontent.com/u/45109972?v=4" width="48" height="48" alt="Streamlit"/>
+
+
+---
+
+## 📊 GitHub Analytics
+<p align="center"> 
+  <!-- GitHub Stats -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=sushilk10&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" 
+    width="48%" 
+  />
 </p>
 
+
+  <p align="center">
+  <!-- GitHub Streak Stats --> 
+ <a href="https://git.io/streak-stats">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com?user=sushilk10&theme=dracula&hide_border=true&background=00000000" 
+    alt="GitHub Streak" 
+    width="48%" 
+  />
+</a>
+
+  
+  <p align="center">
+  <!-- Top Languages -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushilk10&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&bg_color=00000000" 
+    width="50%" 
+  /> 
+</p>
+
+---
+
+## 📈 Contribution Graph  
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sushilk10&theme=tokyonight" alt="sushilk10 streak stats"/>
+  <!-- GitHub Activity Graph -->
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=sushilk10&theme=tokyonight&hide_border=true&bg_color=00000000" 
+    alt="Sushil's Activity Graph" 
+  />
 </p>
 
 
@@ -42,30 +86,15 @@
 ## 🤝 Connect with Me
 
 <p align="center">
-  <!-- 📧 Gmail -->
-  <a href="mailto:sanketkale1243@gmail.com">
-    <img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>
-
-  <!-- 💼 LinkedIn -->
-  <a href="https://www.linkedin.com/in/sushil-kale">
-    <img src="https://img.shields.io/badge/LinkedIn_Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-
-  <!-- 🐙 GitHub -->
-  <a href="https://github.com/sushilk10">
-    <img src="https://img.shields.io/badge/GitHub_Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
-  </a>
-
-  <!-- 📸 Instagram -->
-  <a href="https://www.instagram.com/sushi_lk10/profilecard/?igsh=MXkyYXV6cHZzZHJvZQ==">
-    <img src="https://img.shields.io/badge/Instagram-FC466B?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
+  <a href="mailto:sanketkale1243@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://www.linkedin.com/in/sushil-kale"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/sushilk10"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://www.instagram.com/sushi_lk10/profilecard/?igsh=MXkyYXV6cHZzZHJvZQ=="><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
 
-<p align="left">
-  <a href="mailto:sanketkale1243@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/sushil-kale"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/sushilk10"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" /></a>
-  <a href="https://www.instagram.com/yourusername"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
-</p>
+---
+
+⭐ *“Blending AI, creativity, and code to build a smarter and sustainable world.”*  
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</div>
