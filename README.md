@@ -2,7 +2,7 @@
 
 <!---- Header / Banner ---->
 <h1 align="center">Hi 👋, I'm Sushil Kale </h1>
-<h3 align="center">Full-Stack Developer & AI Enthusiast | Based in Nagpur, India 🇮🇳</h3>
+<h3 align="center">Full-Stack Developer & AI Enthusiast |India 🇮🇳</h3>
 
 <p align="center">
   <a href="https://github.com/sushilk10">
@@ -26,7 +26,24 @@
 
 ---
 
-## 💡 My skills  
-### 🧰 Tech Stack  
-```text
-Python · TensorFlow · PyTorch · OpenCV · YOLOv8 · CNN · XGBoost · Streamlit · Node.js · Express · MongoDB · AWS (S3, Lambda) · Git & GitHub · Docker · CI/CD
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sushilk10&show_icons=true&theme=tokyonight&count_private=true" alt="sushilk10 GitHub stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sushilk10&theme=tokyonight" alt="sushilk10 streak stats"/>
+</p>
+
+---
+
+## 🤝 Connect with Me
+
+<p align="center">
+  <a href="mailto:sanketkale1243@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/sushilk10"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/sushilk10"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+---
