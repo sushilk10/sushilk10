@@ -51,14 +51,8 @@ To innovate at the intersection of **AI and Sustainability**, creating technolog
 
   <p align="center">
   <!-- GitHub Streak Stats --> 
- <a href="https://git.io/streak-stats">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=sushilk10&theme=dracula&hide_border=true&background=00000000" 
-    alt="GitHub Streak" 
-    width="48%" 
-  />
-</a>
-
+   <img src="https://streak-stats.demolab.com?user=sushilk10&mode=weekly" alt="GitHub Streak"/>
+</p>
   
   <p align="center">
   <!-- Top Languages -->
