@@ -88,7 +88,7 @@ To innovate at the intersection of **AI and Sustainability**, creating technolog
 
 ---
 
-⭐ *“Blending AI, creativity, and code to build a smarter and sustainable world.”*  
+🤖 *“Blending AI, creativity, and code to build a smarter and sustainable world.”*  
 <div align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </div>
