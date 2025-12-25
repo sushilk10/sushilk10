@@ -1,6 +1,7 @@
 <!-- 💫 HEADER / INTRO -->
 <h1 align="center">Hi 👋, I'm <span style="color:#00bfff;">Sushil Kale</span></h1>
-<h3 align="center">💻 Full-Stack Developer | 🤖 AI & ML Enthusiast | 🌱 Sustainability Innovator | 🛡️ Cybersecurity Enthusiast</h3>
+<h3 align="center">💻 Full-Stack Developer | 🤖 AI & ML Enthusiast | 🌱 Sustainability Innovator | 
+  🛡️ Cybersecurity Enthusiast</h3>
 
 <p align="center">
   <a href="https://github.com/sushilk10">
