@@ -43,10 +43,7 @@ To innovate at the intersection of **AI and Sustainability**, creating technolog
 ## 📊 GitHub Analytics
 <p align="center"> 
   <!-- GitHub Stats -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=sushilk10&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" 
-    width="48%" 
-  />
+ <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=sushilk10&theme=transparent&border_radius=4.4&short_numbers=true&mode=weekly&type=png&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak" /></a>
 </p>
 
 
