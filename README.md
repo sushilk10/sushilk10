@@ -42,7 +42,7 @@ To innovate at the intersection of **AI and Sustainability**, creating technolog
 <p align="center">
   <table>
     <tr>
-      <td><img src="https://github-readme-stats.shion.dev/api?username=sushilk10&theme=default&hide_border=true&include_all_commits=true&count_private=true" /></td>
+      <td><img src="https://gh-stats.com/api?username=sushilk10&theme=default&hide_border=true&include_all_commits=true&count_private=true" /></td>
       <td><img src="https://streak-stats.demolab.com/?user=sushilk10&theme=default&hide_border=true" /></td>
     </tr>
   </table>
