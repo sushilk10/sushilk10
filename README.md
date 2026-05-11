@@ -39,10 +39,6 @@ To innovate at the intersection of **AI and Sustainability**, creating technolog
 
 
 ---
-
-## 📊 GitHub Analytics
-## 📊 GitHub Analytics
-
 ## 📊 GitHub Analytics
 
 <p align="center">
