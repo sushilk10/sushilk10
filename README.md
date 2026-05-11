@@ -9,7 +9,6 @@
   </a>
 </p>
 
----
 
 ## 🧠 About Me  
 
@@ -38,7 +37,6 @@ To innovate at the intersection of **AI and Sustainability**, creating technolog
   <img src="https://avatars.githubusercontent.com/u/45109972?v=4" width="48" height="48" alt="Streamlit"/>
 
 
----
 ## 📊 GitHub Analytics
 
 <p align="center">
@@ -52,7 +50,7 @@ To innovate at the intersection of **AI and Sustainability**, creating technolog
  <p align="center">
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=sushilk10&theme=default&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
 </p>
----
+
 
 ## 📈 Contribution Graph  
 
@@ -65,7 +63,6 @@ To innovate at the intersection of **AI and Sustainability**, creating technolog
 </p>
 
 
----
 
 ## 🤝 Connect with Me
 
